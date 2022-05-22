@@ -15,23 +15,31 @@
 - Não é contratar um host.
 
 ## Características Essenciais.
+
 - Auto serviço sob demanda.
-- Amplo  acesso a rede.
+- Amplo acesso a rede.
 - Pool de recursos compartilhados.
+- Elasticidade rápida.
+- Serviços mensuráveis.
 
+## Modelos de Serviços
 
+- IaaS - Infraestrutura como serviço.
+- Aws, Azure, GCP, OpenStack, IBM Cloud.
+- PaaS - Plataforma como serviço.
+- Aws RDS, Google App Engine.
 
-### 1 - Entendendo o Projeto e Definindo a arquitetura.
+### 1 - Entendendo o Projeto e Definindo a Arquitetura.
 
-### 2 - Deixando a aplicação em Alta Disponibilidade.
+### 2 - Deixando a Aplicação em Alta Disponibilidade.
 
-### 3 -  Criando atualizações automatizadas.
+### 3 -  Criando Atualizações Automatizadas.
 
-### 4 - O Pulo do Gato e como tornar-se um Upper.
+### 4 - O Pulo do Gato e como Tornar-se um Upper.
 
 ### 5 - Painel com Uppers.
 
-### 6 - Como precificar o Projeto.
+### 6 - Como Precificar o Projeto.
 
 
 
