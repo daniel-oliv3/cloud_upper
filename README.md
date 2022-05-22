@@ -22,12 +22,21 @@
 - Elasticidade rápida.
 - Serviços mensuráveis.
 
-## Modelos de Serviços
+## Modelos de Serviços.
 
 - IaaS - Infraestrutura como serviço.
 - Aws, Azure, GCP, OpenStack, IBM Cloud.
 - PaaS - Plataforma como serviço.
 - Aws RDS, Google App Engine.
+- SaaS - Software como serviço.
+- WorkMail, Gmail, Skype, Salesforce, Conta Azul, Trello, Slack.
+
+## Modelos de Deploy.
+
+- Nuvens privadas.
+- Nuvens comunitária.
+- Nuvens públicas.
+- Nuvens híbridas.
 
 ### 1 - Entendendo o Projeto e Definindo a Arquitetura.
 
