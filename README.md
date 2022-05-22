@@ -7,6 +7,20 @@
 - Possibilita o mínimo de esforço de gerenciamento.
 - Não necessita a interação do provedor.
 
+## Crescimento vertical x horizontal.
+
+- O que não é cloud computing?
+- Não é uma nova tecnologia.
+- Não é só virtualização.
+- Não é contratar um host.
+
+## Características Essenciais.
+- Auto serviço sob demanda.
+- Amplo  acesso a rede.
+- Pool de recursos compartilhados.
+
+
+
 ### 1 - Entendendo o Projeto e Definindo a arquitetura.
 
 ### 2 - Deixando a aplicação em Alta Disponibilidade.
