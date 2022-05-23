@@ -40,7 +40,7 @@
 
 ## Instalações Essências.
 - Visual Studio Code - https://code.visualstudio.com/download
-- 
+- AWS - https://aws.amazon.com/pt/free/
 
 ### 1 - Entendendo o Projeto e Definindo a Arquitetura.
 
