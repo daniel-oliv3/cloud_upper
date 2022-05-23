@@ -38,6 +38,10 @@
 - Nuvens públicas.
 - Nuvens híbridas.
 
+## Instalações Essências.
+- Visual Studio Code - https://code.visualstudio.com/download
+- 
+
 ### 1 - Entendendo o Projeto e Definindo a Arquitetura.
 
 ### 2 - Deixando a Aplicação em Alta Disponibilidade.
@@ -49,6 +53,8 @@
 ### 5 - Painel com Uppers.
 
 ### 6 - Como Precificar o Projeto.
+
+### 7 - A Cereja do Bolo.
 
 
 
