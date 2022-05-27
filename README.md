@@ -44,6 +44,17 @@
 - AWS - https://aws.amazon.com/pt/free/
 
 ### 1 - Entendendo o Projeto e Definindo a Arquitetura.
+## Para quem é essa Imersão
+- Desenvolvedores que querem desenvolver aplicações mais modernas, ganhar mais e ser capaz de trabalhar em grades empresas.
+- Profissionais de infra que querem crescer na carreira usando tecnologias que poucos conhecem e parar de apagar incêndio.
+- Gestores de TI que querem crescer dentro da empresa mostrando resultados e otimizando custos através de novas tecnologias.
+- Profissionais de suporte que querem eveloir na carreira, atuar em uma área mais especializada e valorizada e ganhar mais.
+
+## Upper
+- Domínio Técnico
+- Projetos
+- Negócios
+- Carreira
 
 ### 2 - Deixando a Aplicação em Alta Disponibilidade.
 
